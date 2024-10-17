@@ -1,3 +1,7 @@
+
+All this data should be pasted in a .env file 
+
+
 JWT_SECRET=YOUR_JWT_SECRET(Ask chatgpt to create one if you are not familiar with this)
 JWT_EXPIRES=TIME(Ex:30d, 1h etc)
 MONGO_URI=YOUR_MONGO_DB_URL
